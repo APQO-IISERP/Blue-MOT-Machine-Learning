@@ -5,6 +5,6 @@ Optimizing the number of strontium atoms in a Blue MOT through machine learning 
 
 How to run this code?  
 
-1. Install M-LOOP python module from https://github.com/michaelhush/M-LOOP.
+1. Install the M-LOOP python module from https://github.com/michaelhush/M-LOOP.
 2. Download the file 'blueMOT_machine_learning.py' from the current repository and replace the demarcated snippets with hardware specific codes.
 3. Run  
